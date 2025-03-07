@@ -12,7 +12,7 @@ In diesem Projekt habe ich mich mit der Theorie und Anwendung von Transistoren u
 
 ### Hardware 5: Binäre Uhr
 In diesem Projekt habe ich eine binäre Uhr gelötet. Die Anleitung und der dazugehörige Code sind hier zu finden.
-👉 **[Binäre Uhr.pdf](./Bineare_Uhr.pdf)**
+👉 **[V5_Hussain_Nouralrahman_79968 (1).pdf](./V5_Hussain_Nouralrahman_79968 (1).pdf)**
 
 ### Hardware 6: Würfel und Zähler mit LEDs
 In diesem Projekt habe ich einen Würfel und Zähler mit programmiert. Die Anleitung und der dazugehörige Code sind in diesem Verzeichnis zu finden.
